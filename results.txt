@@ -1,0 +1,280 @@
+Test 0
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 1
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 2
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 3
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 4
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 5
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 6
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 7
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 8
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: fragment
+
+Test 9
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: fragment
+
+Test 10
+protocol: http
+host: 192.168.1.1
+port: 80
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 11
+protocol: http
+host: 192.168.1.1
+port: 8080
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 12
+protocol: http
+host: 192.168.1.1
+port: 8080
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 13
+protocol: http
+host: 192.168.1.1
+port: 80
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 14
+protocol: http
+host: 192.168.1.1
+port: 80
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 15
+protocol: http
+host: 192.168.1.1
+port: 8080
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 16
+protocol: http
+host: 192.168.1.1
+port: 80
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: fragment
+
+Test 17
+protocol: http
+host: 192.168.1.1
+port: 8080
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: fragment
+
+Test 18
+protocol: http
+host: 192.168.1.1
+port: 80
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 19
+protocol: http
+host: 192.168.1.1
+port: 8080
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 20
+protocol: http
+host: 192.168.1.1
+port: 80
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 21
+protocol: http
+host: 192.168.1.1
+port: 80
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 22
+protocol: http
+host: 192.168.1.1
+port: 8080
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 23
+protocol: http
+host: 192.168.1.1
+port: 8080
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 24
+protocol: http
+host: 192.168.1.1
+port: 
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 25
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 26
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 27
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 28
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /
+query: (null)
+fragment: (null)
+
+Test 29
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 30
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /folder/index.html
+query: (null)
+fragment: (null)
+
+Test 31
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 32
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: (null)
+
+Test 33
+protocol: http
+host: www.google.com
+port: 80
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: fragment
+
+Test 34
+protocol: http
+host: www.google.com
+port: 8080
+abs_path: /folder/index.html
+query: title=Main_page&action=raw
+fragment: fragment
+
